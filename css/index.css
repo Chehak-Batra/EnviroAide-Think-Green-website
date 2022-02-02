@@ -167,7 +167,7 @@ nav ul a:hover{
     justify-content: space-between;
     align-items: center;
     margin: 5rem 0rem;
-    width: 75%;
+    width: 90%;
     margin: auto;
 }
 .roll img{
@@ -206,18 +206,19 @@ footer img
 }
 
 .line{
-    border: 3px solid black;
+    border: 2px solid black;
     width: 100%;
+    background-color: black;
 }
 
 .style{
-    font-size: 3rem;
+    font-size: 2.5rem;
     text-align: center;
     color: #473249;
     font-weight: 500;
 }
 
 .style:hover{
-    font-size: 3.6rem;
+    font-size: 3.1rem;
     font-weight: 650;
 }

@@ -16,11 +16,11 @@
 
 .e1 div{
     width: 75%;
-    font-size: 1.5rem;
+    font-size: 0.9rem;
     text-align: center;
 }
 .e1 div h1, .e2>div h1{
-    font-size: 3.5rem;
+    font-size: 2.6rem;
     color: #1E425E;
 }
 .e1 img{
@@ -70,7 +70,7 @@
     justify-content:space-around;
     align-items: center;
     width: 100%;
-    font-size: 1.4rem;
+    font-size: 1rem;
     margin: 5px 0px;
     text-align: center;
 }
@@ -104,13 +104,13 @@ width: 30%;
    color: white;
    width: 70%;
    margin: auto;
-   font-size: 3.5rem;
+   font-size: 2.35rem;
 }
 
 .intro{
     margin-bottom: 5rem;
     display: flex;
-    font-size: 20px;
+    font-size: 15px;
     background-color: rgb(179 246 179);
     padding: 2rem;
 }
@@ -142,14 +142,14 @@ width: 45%;
     text-align: center;
 }
 .r img{
-    width: 350px;
-    height: 390px;
+    width: 274px;
+    height: 331px;
     margin: 70px 0px;
 }
 
 #last{
-    width: 700px;
-    height: 400px;
+    width: 545px;
+    height: 340px;
 }
 
 .cities{
