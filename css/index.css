@@ -15,12 +15,12 @@ img{
 .extra button{
     background-color: black;
     color: #EDFA8B;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     margin: 0;
     padding: 0;
     }
     
-    .item {
+.item{
         display: block;
         /* width: 100%; */
         padding: .25rem 1rem;
@@ -32,7 +32,7 @@ img{
         white-space: nowrap;
         background-color: transparent;
         border: 0;
-    }
+}
     
     
 .feedback{
@@ -42,13 +42,13 @@ img{
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 2rem;
+    font-size: 1.5rem;
     position: sticky;
-    top: -13px;
+    top: -10px;
     
 }
 .feedback button{
-    font-size: 1.5rem;
+    font-size: 1.1rem;
     margin: 0px 20px;
     background-color: #EDFA8B;
     border-radius: 20px;
@@ -69,7 +69,7 @@ nav{
     padding: 5px 0px;
     /* position: sticky; */
     position: sticky;
-    top: 54px;
+    top: 40px;
 }
 nav img{
     width: 200px;
@@ -81,7 +81,7 @@ nav ul{
     display: flex;
     list-style: none;
     margin: 0px 10px;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     /* color: #99bc2d; */
     
 }
@@ -106,15 +106,15 @@ nav ul a:hover{
     background-color: rgb(205 246 205);
 }
 .firstin{
-    width: 90%;
-    margin: 3rem 7rem;
+    width: 89%;
+    margin: 3rem 4rem;
     padding: 2rem;
     background-color: rgb(179 246 179);
 }
 
 .first h1{
     text-align: center;
-    font-size: 3.1rem;
+    font-size: 2.4rem;
     color: #1E425E;
     margin: 10px;
     font-weight: 700;
@@ -125,7 +125,7 @@ nav ul a:hover{
     justify-content: center;
     align-items: center;
     margin: auto;
-    width: 80%;
+    width: 98%;
     
 } 
 
@@ -133,18 +133,18 @@ nav ul a:hover{
     display: flex;
     background-color: rgb(253, 237, 240);
     padding: 10px;
-    width: 70%;
+    width: 82%;
     border-radius: 20px;
     border:2px solid black;
     margin: 20px 0px;
-    font-size: 2rem;
+    font-size: 1.7rem;
 }
 .outer{
     display: flex;
     flex-direction: column;
     background-color: white;
     margin: 5px;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     /* margin: 2px 15px; */
     color: #da1212;
 }
@@ -153,12 +153,12 @@ nav ul a:hover{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 1rem 2rem;
+    /* margin: 1rem 2rem; */
     width: 100%;
 }
 
 .vid h2{
-    font-size: 2.5rem;
+    font-size: 2.2rem;
     text-align: center;
 }
 
@@ -184,7 +184,7 @@ footer{
     display: flex;
     justify-content:space-between;
     align-items: center;
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     padding: 1rem 2rem;
 }
 footer a{
@@ -196,8 +196,9 @@ footer a:hover{
     border-bottom: 2px solid #1E425E;
 }
 footer p{
-    padding: 0.5rem 0.5rem;
+    padding: 0.1rem 0.5rem;
 }
+
 footer img
 {
     width: 430px;
