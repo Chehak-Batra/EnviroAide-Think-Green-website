@@ -1,6 +1,6 @@
 # EnviroAide-Think-Green-website
 
-This website is one step towards protecting our environment in any form possible. 
+This website is one step towards protecting our environment in any form possible. Various effective ways to solve environmental problems are shared in an innovative way. Information like causes, effects and supporting data is also shared to encourage green thinking.
 
 Currently the light is on 
 - Endangered species( General awareness and list of species left with certain population )
